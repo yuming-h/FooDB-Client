@@ -4,7 +4,7 @@ The frontend for our CPSC 304 term project: a model food delivery system connect
 
 ![Ajisai](/screenshots/Ajisai.png)
 
-![Cart Full](/screenshots/Cart Full.png)
+![Cart Full](/screenshots/Cart\ Full.png)
 
 ![Driver On The Way](/screenshots/Driver On The Way.png)
 
