@@ -1,6 +1,6 @@
 # FooDB-Client
 
-The frontend for our CPSC 304 term project: a model food delivery system connecting users, restaurants, and drivers in a very usable app.
+The frontend for our CPSC 304 term project: a model food delivery system connecting users, restaurants, and drivers in a very minimal and usable app.
 
 ![Ajisai](/screenshots/Ajisai.png)
 
